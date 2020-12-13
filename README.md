@@ -1,7 +1,5 @@
 # Price-Card-with-animation
 
-# Neumorphism-Style-Elements
-
 Hi there! 
 I'm Hasnain Rasheed💻, from Pakisan 🇵🇰 👋
 I'm ♕Font-End Developer👨‍💻 Currently, 
@@ -10,7 +8,7 @@ and also Developer Student Clubs (DSC Lead) by Google Developer .
 
 
 
-**Live Preview:**  
+**Live Preview:**  https://hrhasnai.github.io/Price-Card-with-animation/
 
 
 
