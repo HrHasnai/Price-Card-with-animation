@@ -10,7 +10,7 @@ To view a live example, **[click here](https://hrhasnai.github.io/Price-Card-wit
 
 
 **Facebook:**
-Follow me on Facebook, **[click here](https://web.facebook.com/hrhasnai/)**
+**[click here](https://web.facebook.com/hrhasnai/)**
 
 **Website:** 
 https://hasnainrasheed.com
