@@ -7,12 +7,11 @@ I'm a student of BS (Computer Science & engineering)
 and also Developer Student Clubs (DSC Lead) by Google Developer .
 
 
-
-**Live Preview:**  https://hrhasnai.github.io/Price-Card-with-animation/
-
+To view a live example, **[click here](https://hrhasnai.github.io/Price-Card-with-animation/)**
 
 
 **Facebook:**
-https://web.facebook.com/hrhasnai/
+Follow me on Facebook, **[click here](https://web.facebook.com/hrhasnai/)**
+
 **Website:** 
 https://hasnainrasheed.com
